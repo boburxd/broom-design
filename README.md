@@ -28,6 +28,14 @@ it toward generic defaults.
 By hand: copy `skills/broom` into `.claude/skills/` (Claude Code), `.agents/skills/` (Codex, Cursor, GitHub Copilot,
 Gemini CLI, OpenCode) or `.windsurf/skills/` (Windsurf).
 
+In Claude Code it also installs as a plugin:
+
+    /plugin marketplace add boburxd/broom-design
+    /plugin install broom@broom-design
+
+A plugin's skills carry the plugin's name, so there the commands read `/broom:broom audit` and so on, and
+`claude plugin update broom@broom-design` updates it.
+
 ## Use
 
 | Command | What it does |

@@ -1,0 +1,22 @@
+{
+  "name": "broom",
+  "version": "1.0.0",
+  "description": "Broom Design, the design skill for AI coding agents. The most popular design skills in one, with a checker and a design system generator: removes AI slop from UI and respects your own design system.",
+  "author": {
+    "name": "boburxd"
+  },
+  "homepage": "https://github.com/boburxd/broom-design",
+  "repository": "https://github.com/boburxd/broom-design",
+  "license": "Apache-2.0",
+  "keywords": [
+    "design",
+    "design-skills",
+    "design-system",
+    "ui",
+    "ux",
+    "frontend",
+    "accessibility",
+    "ai-slop",
+    "skills"
+  ]
+}
