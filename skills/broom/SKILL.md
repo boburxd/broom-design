@@ -1,12 +1,12 @@
 ---
 name: broom
-description: Removes AI slop from interfaces and keeps UI work at a studio level. Use it whenever you build, change or review any interface (a web app, a mobile app or a website, in any stack), when asked to audit or fix AI slop or to check UI work before calling it done, when setting up a design system or redesigning a product, and when turning a Figma file into rules for a coding agent. The product's own design system is the baseline, so slop is drift from that system toward generic defaults. Commands are audit (find the slop and write SLOP_REPORT.md), fix (fix that report one finding at a time), check (a quick pass over the files you changed), design (a design system from a short brief), redesign (a new look for an existing product) and handoff (a Figma file becomes rules for the coding agent). Ships scripts/detect.mjs, a checker, and scripts/design.mjs, which turns a brief into a design system.
+description: Broom Design, the design skill for AI coding agents, removes AI slop from interfaces and keeps UI work at a studio level. Use it whenever you build, change or review any interface (a web app, a mobile app or a website, in any stack), when asked to audit or fix AI slop or to check UI work before calling it done, when setting up a design system or redesigning a product, and when turning a Figma file into rules for a coding agent. The product's own design system is the baseline, so slop is drift from that system toward generic defaults. Commands are audit (find the slop and write SLOP_REPORT.md), fix (fix that report one finding at a time), check (a quick pass over the files you changed), design (a design system from a short brief), redesign (a new look for an existing product) and handoff (a Figma file becomes rules for the coding agent). Ships scripts/detect.mjs, a checker, and scripts/design.mjs, which turns a brief into a design system.
 license: Apache-2.0
 ---
 
-# Broom
+# Broom Design
 
-Broom removes AI slop from interfaces: the generic, machine-made look of default UI. It keeps your UI work at the
+Broom Design removes AI slop from interfaces: the generic, machine-made look of default UI. It keeps your UI work at the
 level of a good design studio, on any stack, and it respects the product's own design system.
 
 Every path below is relative to this skill's folder, the folder that holds this SKILL.md. The scripts do the

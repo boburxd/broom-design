@@ -1,13 +1,25 @@
-# Broom
+# Broom Design
 
-Broom removes AI slop from interfaces: the generic, machine-made look of default UI. It collects the most popular
-design skills into one, together with a working studio's own taste, and turns them into one set of rules, a checker
-and six commands. It keeps any coding agent's UI work at a studio level and respects the product's own design system:
-what your system does on purpose stays, and slop is whatever drifts from it toward generic defaults.
+**The design skill for AI coding agents.** Broom Design collects the most popular design skills into one Agent Skill,
+together with a working studio's own taste: one set of rules, a checker, a design system generator and six commands.
+It works in Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Windsurf, OpenCode and any agent that reads
+skills, and it removes AI slop from web apps, mobile apps and websites: the generic, machine-made look of default UI.
+It respects the product's own design system. What your system does on purpose stays, and slop is whatever drifts from
+it toward generic defaults.
+
+## What it covers
+
+- Separation: one technique per surface (a fill, a stroke or a shadow), and the one your system chose is kept.
+- Corners: radius that follows height, nested corners that agree, your own scale.
+- Colour and contrast: checked in every state and in both themes.
+- Spacing and type: your scale, a real hierarchy, no generic defaults.
+- States, motion and interaction: focus, hover, busy, empty and error states, reduced motion.
+- Copy in the product's own words, accessibility, honest flows with no dark patterns, and AI chat surfaces.
+- Any stack: React, Vue, Svelte, Astro, plain HTML and CSS, React Native, Flutter, SwiftUI and Jetpack Compose.
 
 ## Install
 
-    npx skills add boburxd/broom
+    npx skills add boburxd/broom-design
 
 - `-g` installs it for every project.
 - `-a claude-code`, `-a cursor`, `-a codex` and so on pick the agents.
