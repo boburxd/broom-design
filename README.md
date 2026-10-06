@@ -83,11 +83,9 @@ noticeable 10–20, heavy 20 and over. `--changed` checks only the files changed
 
 ## Support
 
-Broom Design is free and stays free. If it saves you time, you can support it with a one-time payment:
-
-**[$1](https://checkout.dodopayments.com/buy/pdt_0Np8FLH2fEF6iH1OiX2Pi?quantity=1&showDiscounts=false&redirect_url=https%3A%2F%2Fgithub.com%2Fboburxd%2Fbroom-design&paymentAmount=1) · [$3](https://checkout.dodopayments.com/buy/pdt_0Np8FLH2fEF6iH1OiX2Pi?quantity=1&showDiscounts=false&redirect_url=https%3A%2F%2Fgithub.com%2Fboburxd%2Fbroom-design&paymentAmount=3) · [$5](https://checkout.dodopayments.com/buy/pdt_0Np8FLH2fEF6iH1OiX2Pi?quantity=1&showDiscounts=false&redirect_url=https%3A%2F%2Fgithub.com%2Fboburxd%2Fbroom-design&paymentAmount=5) · [$10](https://checkout.dodopayments.com/buy/pdt_0Np8FLH2fEF6iH1OiX2Pi?quantity=1&showDiscounts=false&redirect_url=https%3A%2F%2Fgithub.com%2Fboburxd%2Fbroom-design&paymentAmount=10) · [Your amount](https://checkout.dodopayments.com/buy/pdt_0Np8FLH2fEF6iH1OiX2Pi?quantity=1&showDiscounts=false&redirect_url=https%3A%2F%2Fgithub.com%2Fboburxd%2Fbroom-design)**
-
-Payments go through Dodo Payments. Paying unlocks nothing: every part of the skill is already yours.
+Broom Design is free and stays free. If it saves you time, **[buy me a coffee](https://checkout.dodopayments.com/buy/pdt_0Np8FLH2fEF6iH1OiX2Pi?quantity=1&showDiscounts=false&redirect_url=https%3A%2F%2Fgithub.com%2Fboburxd%2Fbroom-design)**: you choose the amount on the
+next page, from $1, with $5 suggested. Payments go through Dodo Payments, and paying unlocks nothing: every part of the
+skill is already yours.
 
 ## Sources
 
